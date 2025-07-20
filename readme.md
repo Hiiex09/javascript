@@ -11,3 +11,6 @@ git remote add origin "your repo link here"
 <br/>
 
 git push origin
+
+<br/>
+- git checkout -b branch-name (name of your branch)
